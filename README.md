@@ -2,14 +2,19 @@
 
 I'm just a high school student passionate about tech.
 
-## Stats
+Most of what I do are side quests.
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=AFSC54438&show_icons=true&theme=dark)](https://github.com/AFSC54438/github-readme-stats&show_icons=true&theme=dark)
+## What I do
 
-![I'm multilingual](https://github-readme-stats.vercel.app/api/top-langs/?username=AFSC54438&layout=compact&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,arduino)](https://skillicons.dev)
+
+## My Stats
+
+[![AFSC54438's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFSC54438&show_icons=true&theme=discord_old_blurple)](https://github.com/AFSC54438/github-readme-stats)
+
+![I'm multilingual](https://github-readme-stats.vercel.app/api/top-langs/?username=AFSC54438&layout=compact&theme=discord_old_blurple)
+
 
 ## Badges
-
-![Static Badge](https://img.shields.io/badge/Python-4076A5?style=for-the-badge&logo=python&labelColor=FFCE42)
-
 ![GitHub followers](https://img.shields.io/github/followers/AFSC54438)
+
