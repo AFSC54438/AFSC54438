@@ -4,7 +4,7 @@ I'm just a high school student passionate about tech.
 
 Most of what I do are side quests.
 
-## What I do
+## Things I do (ish)
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,arduino)](https://skillicons.dev)
 
