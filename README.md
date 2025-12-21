@@ -17,4 +17,3 @@ Most of what I do are side quests.
 
 ## Badges
 ![GitHub followers](https://img.shields.io/github/followers/AFSC54438)
-
