@@ -8,6 +8,8 @@ Most of what I do are side quests.
 
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,arduino)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
+
 ## My Stats
 
 [![AFSC54438's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFSC54438&show_icons=true&theme=discord_old_blurple)](https://github.com/AFSC54438/github-readme-stats)
