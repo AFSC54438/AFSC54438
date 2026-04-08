@@ -6,7 +6,7 @@ Most of what I do are side quests.
 
 ## Things I do (ish)
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,css,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,js,html,tailwind,arduino)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
 
