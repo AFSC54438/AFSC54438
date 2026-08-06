@@ -12,9 +12,9 @@ Most of what I do are side quests.
 
 ## My Stats
 
-[![AFSC54438's GitHub stats](https://github-readme-stats.vercel.app/api?username=AFSC54438&show_icons=true&theme=discord_old_blurple)](https://github.com/AFSC54438/github-readme-stats)
+[![AFSC54438's GitHub stats](https://github-stats-extended.vercel.app/api?username=AFSC54438&show_icons=true&theme=discord_old_blurple)](https://github.com/AFSC54438/github-readme-stats)
 
-![I'm multilingual](https://github-readme-stats.vercel.app/api/top-langs/?username=AFSC54438&layout=compact&theme=discord_old_blurple)
+![I'm multilingual](https://github-stats-extended.vercel.app/api/top-langs/?username=AFSC54438&layout=compact&theme=discord_old_blurple)
 
 
 ## Badges
