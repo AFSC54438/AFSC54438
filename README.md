@@ -1,6 +1,6 @@
 # Hello World, I'm AFS!
 
-I'm just a high school student passionate about tech.
+I'm just a student passionate about tech.
 
 Most of what I do are side quests.
 
